@@ -6,7 +6,7 @@ import combImg from "@/assets/comb-3d.png";
 import razorImg from "@/assets/razor-3d.png";
 import appMockup from "@/assets/app-mockup.png";
 
-const DOWNLOAD_URL = "https://drive.google.com/file/d/14lRIK8XJV6uXayy316y6eJWXMVxfLzCx/view?usp=drivesdk";
+const DOWNLOAD_URL = "https://drive.google.com/uc?export=download&id=14lRIK8XJV6uXayy316y6eJWXMVxfLzCx";
 
 const HeroSection = () => {
   return (
