@@ -3,7 +3,7 @@ import { Download, CheckCircle2 } from "lucide-react";
 import FloatingElement from "./FloatingElement";
 import appMockup from "@/assets/app-mockup.png";
 
-const DOWNLOAD_URL = "https://def4.pcloud.com/cBZVWyM2X7ZR3VjsC7ZIKJx7ZZhqBa0kZ2ZZBSJZkZtuaG7Z04Z9zZbQZIYZU4ZQmZrLZi8ZkLZPLZ8LZ7QZ6LZyYZjm7l5Z05PAoxuyUqkFYNjd1SeU5mbgKziV/StyleQ.apk";
+const DOWNLOAD_URL = "https://u.pcloud.link/publink/show?code=XZjm7l5Z1cFHiou4zjYDr4wjOy3w9bFnCyS7";
 
 const benefits = [
   "Free to download",
